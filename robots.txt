@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ajasys.github.io/notes-ouod0i/sitemap.xml
